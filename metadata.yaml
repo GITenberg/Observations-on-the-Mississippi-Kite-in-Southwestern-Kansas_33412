@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36389
     wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33412#Observations-on-the-Mississippi-Kite-in-Southwestern-Kansas
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
